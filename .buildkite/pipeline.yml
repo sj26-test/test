@@ -1,5 +1,5 @@
 steps:
   - name: ":docker:"
-    command: command
+    command: echo "Hello World!"
     env:
       BUILDKITE_DOCKER_COMPOSE_CONTAINER: "app"

@@ -1,0 +1,3 @@
+steps:
+  - label: ":console:"
+    command: echo "Hello world!"

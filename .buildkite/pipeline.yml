@@ -1,0 +1,5 @@
+steps:
+  - name: ":docker:"
+    command: echo "Hello World!"
+    env:
+      BUILDKITE_DOCKER: "true"
